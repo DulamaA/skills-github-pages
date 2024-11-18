@@ -1,5 +1,5 @@
-**Bold text**
+
 ---
-title: December
+title: My blog page
 ---
 
