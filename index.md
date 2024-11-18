@@ -1,4 +1,6 @@
+**Bold text**
+
 ---
-title: Welcome to my blog
+title: December
 ---
 
