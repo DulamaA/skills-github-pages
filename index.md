@@ -1,5 +1,2 @@
 
----
-title: My blog page
----
 
