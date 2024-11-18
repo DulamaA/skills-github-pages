@@ -1,6 +1,2 @@
-**Bold text**
 
----
-title: December
----
 
